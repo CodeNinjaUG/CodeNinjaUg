@@ -42,16 +42,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 October 2022 - To: 03 April 2023
+From: 25 October 2022 - To: 04 April 2023
 
-Total Time: 489 hrs 39 mins
+Total Time: 494 hrs 26 mins
 
-Vue.js           231 hrs 17 mins >>>>>>>>>>>>-------------   47.24 %
-PHP              85 hrs 35 mins  >>>>---------------------   17.48 %
-Go               71 hrs 55 mins  >>>>---------------------   14.69 %
-JavaScript       47 hrs 38 mins  >>-----------------------   09.73 %
-Blade Template   14 hrs 49 mins  >------------------------   03.03 %
-Svelte           8 hrs 34 mins   -------------------------   01.75 %
+Vue.js           231 hrs 17 mins >>>>>>>>>>>>-------------   46.78 %
+PHP              85 hrs 35 mins  >>>>---------------------   17.31 %
+Go               75 hrs 45 mins  >>>>---------------------   15.32 %
+JavaScript       47 hrs 38 mins  >>-----------------------   09.64 %
+Blade Template   14 hrs 49 mins  >------------------------   03.00 %
+Svelte           8 hrs 34 mins   -------------------------   01.73 %
 ```
 
 <!--END_SECTION:waka-->
