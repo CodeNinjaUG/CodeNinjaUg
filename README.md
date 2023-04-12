@@ -1,14 +1,7 @@
-
-https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-2.gif
 <h1 align="center">Hi 👋, I'm Segayi Andrew</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeninjaug&label=Profile%20views&color=0e75b6&style=flat" alt="codeninjaug" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeninjaug" alt="codeninjaug" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@andy_swaggna" target="blank"><img src="https://img.shields.io/twitter/follow/@andy_swaggna?logo=twitter&style=for-the-badge" alt="@andy_swaggna" /></a> </p>
-
+<img align="right" src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif">
 - 🔭 I’m currently working on [SPS-Web](PrivateProject)
 
 - 🌱 I’m currently learning **Golang,Gin,Fiber**
@@ -20,7 +13,6 @@ https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/op
 - 💬 Ask me about **Laravel Vue3 Svelte Golang**
 
 - 📫 How to reach me **segayiandrew@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@andy_swaggna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andy_swaggna" height="30" width="40" /></a>
