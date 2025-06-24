@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2022 - To: 21 June 2025
+From: 25 October 2022 - To: 22 June 2025
 
-Total Time: 2,640 hrs 14 mins
+Total Time: 2,641 hrs 7 mins
 
-Go                868 hrs 34 mins >>>>>>>>-----------------   32.90 %
-Vue.js            713 hrs 3 mins  >>>>>>>------------------   27.01 %
-SQL               267 hrs 40 mins >>>----------------------   10.14 %
+Go                868 hrs 34 mins >>>>>>>>-----------------   32.89 %
+Vue.js            713 hrs 3 mins  >>>>>>>------------------   27.00 %
+SQL               267 hrs 40 mins >>>----------------------   10.13 %
 PHP               261 hrs 42 mins >>-----------------------   09.91 %
 JavaScript        224 hrs 39 mins >>-----------------------   08.51 %
 ```
