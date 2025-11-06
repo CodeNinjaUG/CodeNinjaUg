@@ -4,8 +4,8 @@
 
 <div align="center">
   <div align="center">
-      <img src="/readme.svg" alt="Typing SVG" />
-  </div>
+  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo-name>/main/readme.svg" alt="Typing SVG" />
+</div>
 
 <p align="center">
   💻 Web Design & Development • 📱 Mobile Apps • ⚙️ Software & System Development • 🗄️ Database Design & API Integration • 🌐 WordPress Migration & Plugin Dev • 🤖 AI Bots & Automation • 📈 Social Media & Online Marketing • 💡 All IT Consultancy Services
