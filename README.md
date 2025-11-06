@@ -103,6 +103,45 @@ PHP               271 hrs 22 mins ██░░░░░░░░░░░░░�
 
 <table>
 <tr>
+  <td width="50%">
+
+### 🛍️ Asasa Online Store
+[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asasa.ug/)
+
+A modern eCommerce platform offering a sleek user experience, fast product search, and mobile-optimized UI.
+
+**Tech Stack:** `Sveltekit` `Golang` `MySQL`
+
+**Status:** ✅ Live
+
+</td>
+<td width="50%">
+
+### 🎥 IntexaTech Video Downloader
+[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://intexatechvideodownloader.pages.dev/)
+
+Free, browser-based video downloader supporting multiple social media platforms with no login required.
+
+**Tech Stack:** `SvelteKit` `JavaScript` `HTML` `CSS`
+
+**Status:** ✅ Live
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏘️ EstateIQ — Real Estate Toolkit
+[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://estateiq-9tj.pages.dev/)
+
+Comprehensive real estate analytics tool offering property valuation insights, lead tracking, and management dashboards.
+
+**Tech Stack:** `Vue.js` `Go` `TailwindCSS` `PostgreSQL`
+
+**Status:** ✅ Live
+
+</td>
 <td width="50%">
 
 ### 🏦 Simple Bank (Go)
@@ -159,47 +198,7 @@ End-to-end AI integrations with n8n, custom chatbots for business automation, an
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
-
-### 🛍️ Asasa Online Store
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asasa.ug/)
-
-A modern eCommerce platform offering a sleek user experience, fast product search, and mobile-optimized UI.
-
-**Tech Stack:** `Sveltekit` `Golang` `MySQL`
-
-**Status:** ✅ Live
-
-</td>
-<td width="50%">
-
-### 🎥 IntexaTech Video Downloader
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://intexatechvideodownloader.pages.dev/)
-
-Free, browser-based video downloader supporting multiple social media platforms with no login required.
-
-**Tech Stack:** `SvelteKit` `JavaScript` `HTML` `CSS`
-
-**Status:** ✅ Live
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏘️ EstateIQ — Real Estate Toolkit
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://estateiq-9tj.pages.dev/)
-
-Comprehensive real estate analytics tool offering property valuation insights, lead tracking, and management dashboards.
-
-**Tech Stack:** `Vue.js` `Go` `TailwindCSS` `PostgreSQL`
-
-**Status:** ✅ Live
-
-</td>
 <td width="50%">
 </td>
 </tr>
