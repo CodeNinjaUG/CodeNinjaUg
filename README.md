@@ -4,8 +4,8 @@
 
 <div align="center">
   <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Go+%26+Vue.js+Enthusiast;AI+Integration+Specialist;n8n+Automation+Expert;Custom+AI+Bot+Creator;Webflow+%26+WordPress+Expert;Plugin+%26+Theme+Developer;Backend+Architecture+%26+API+Integration+Specialist;Mobile+%26+Desktop+App+Developer;Database+Design+%26+Optimization;Social+Media+%26+Online+Marketing+Strategist;All+IT+Services+at+Your+Desk+✊🏿" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?  font=Figtree&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Go+%26+Vue.js+Enthusiast;AI+Integration+Specialist;n8n+Automation+Expert;Custom+AI+Bot+Creator;Webflow+%26+WordPress+Expert;Plugin+%26+Theme+Developer;Backend+Architecture+%26+API+Integration+Specialist;Mobile+%26+Desktop+App+Developer;Database+Design+%26+Optimization;Social+Media+%26+Online+Marketing+Strategist;All+IT+Services+at+Your+Desk+✊🏿" alt="Typing SVG" />
+  </div>
 
 <p align="center">
   💻 Web Design & Development • 📱 Mobile Apps • ⚙️ Software & System Development • 🗄️ Database Design & API Integration • 🌐 WordPress Migration & Plugin Dev • 🤖 AI Bots & Automation • 📈 Social Media & Online Marketing • 💡 All IT Consultancy Services
