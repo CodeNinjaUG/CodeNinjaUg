@@ -260,6 +260,19 @@ End-to-end AI integrations with n8n, custom chatbots for business automation, an
 
 <table>
 <tr>
+  <td width="50%">
+  
+  ### 🌐 WordPress Services
+- 🔄 Site migration & backups
+- 🛠️ Plugin & theme development
+- 🎨 Custom WordPress design & UI/UX
+- ⚡ Performance optimization
+- 🧩 WooCommerce store setup & customization
+- 🔒 Security hardening & updates
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 💼 Business Automation
@@ -278,6 +291,28 @@ End-to-end AI integrations with n8n, custom chatbots for business automation, an
 - 📚 Document Q&A systems
 - 🎯 AI-powered business intelligence
 - 🔍 Semantic search implementations
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📱 Mobile Apps Development
+- ⚡ Cross-platform apps (Flutter, React Native)
+- 📱 iOS & Android deployment
+- 🎨 Modern UI/UX design
+- 🔌 API integration
+- 🛠️ App store submission & updates
+
+</td>
+<td width="50%">
+
+### ⚙️ GitHub Actions & Hosting
+- 🤖 CI/CD automation with GitHub Actions
+- 🚀 Deploy web apps & APIs automatically
+- 🌐 Hosting on Vercel, DigitalOcean, AWS, Heroku
+- 🐳 Dockerized deployments
+- 🔧 Monitoring & automated rollbacks
 
 </td>
 </tr>
