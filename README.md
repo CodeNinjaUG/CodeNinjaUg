@@ -4,7 +4,9 @@
 
 <div align="center">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo-name>/main/readme.svg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Fullstack%20Developer;Go%20%26%20Vue.js%20Enthusiast;AI%20Integration%20Specialist;n8n%20Automation%20Expert;Custom%20AI%20Bot%20Creator;Webflow%20%26%20WordPress%20Expert;Plugin%20%26%20Theme%20Developer;Backend%20Architecture%20%26%20API%20Integration%20Specialist;Mobile%20%26%20Desktop%20App%20Developer;Database%20Design%20%26%20Optimization;Social%20Media%20%26%20Online%20Marketing%20Strategist;All%20IT%20Services%20at%20Your%20Desk%20%E2%9C%8A%F0%9F%8F%BF" alt="Typing SVG" />
+</div>
+
 </div>
 
 <p align="center">
