@@ -4,9 +4,7 @@
 
 <div align="center">
   <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Fullstack%20Developer;Go%20%26%20Vue.js%20Enthusiast;AI%20Integration%20Specialist;n8n%20Automation%20Expert;Custom%20AI%20Bot%20Creator;Webflow%20%26%20WordPress%20Expert;Plugin%20%26%20Theme%20Developer;Backend%20Architecture%20%26%20API%20Integration%20Specialist;Mobile%20%26%20Desktop%20App%20Developer;Database%20Design%20%26%20Optimization;Social%20Media%20%26%20Online%20Marketing%20Strategist;All%20IT%20Services%20at%20Your%20Desk%20%E2%9C%8A%F0%9F%8F%BF" alt="Typing SVG" />
-</div>
-
+    <img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Fullstack%20Developer;Go%20%26%20Vue.js%20Enthusiast;AI%20Integration%20Specialist;n8n%20Automation%20Expert;Custom%20AI%20Bot%20Creator;Webflow%20%26%20WordPress%20Expert;Plugin%20%26%20Theme%20Developer;Backend%20Architecture%20%26%20API%20Integration%20Specialist;Mobile%20%26%20Desktop%20App%20Developer;Database%20Design%20%26%20Optimization;Social%20Media%20%26%20Online%20Marketing%20Strategist;All%20IT%20Services%20at%20Your%20Desk%20%E2%9C%8A%F0%9F%8F%BF" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -14,10 +12,6 @@
 </p>
 
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codeninjaug&color=3b82f6&style=for-the-badge" alt="Profile Views" />
-</p>
 
 
 ---
@@ -97,13 +91,26 @@ PHP               271 hrs 22 mins ██░░░░░░░░░░░░░�
 
 ## 💼 Featured Projects
 
----
-
-## 💼 Featured Projects
 
 <table>
 <tr>
-  <td width="50%">
+<tr>
+<td width="50%">
+
+### 🏘️ EstateIQ — Real Estate Toolkit
+[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://estateiq-9tj.pages.dev/)
+
+Comprehensive real estate analytics tool offering property valuation insights, lead tracking, and management dashboards.
+
+**Tech Stack:** `Vue.js` `Go` `TailwindCSS` `PostgreSQL`
+
+**Status:** ✅ Live
+
+</td>
+<td width="50%">
+</td>
+</tr>
+<td width="50%">
 
 ### 🛍️ Asasa Online Store
 [![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asasa.ug/)
@@ -128,20 +135,7 @@ Free, browser-based video downloader supporting multiple social media platforms 
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
-
-### 🏘️ EstateIQ — Real Estate Toolkit
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://estateiq-9tj.pages.dev/)
-
-Comprehensive real estate analytics tool offering property valuation insights, lead tracking, and management dashboards.
-
-**Tech Stack:** `Vue.js` `Go` `TailwindCSS` `PostgreSQL`
-
-**Status:** ✅ Live
-
-</td>
 <td width="50%">
 
 ### 🏦 Simple Bank (Go)
@@ -196,10 +190,6 @@ End-to-end AI integrations with n8n, custom chatbots for business automation, an
 
 **Tech Stack:** `n8n` `OpenAI` `Claude` `Python` `Go`
 
-</td>
-</tr>
-<tr>
-<td width="50%">
 </td>
 </tr>
 </table>
