@@ -16,8 +16,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/github-profile-counter/?username=codeninjaug&color=3b82f6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=codeninjaug&color=3b82f6&style=for-the-badge" alt="Profile Views" />
 </p>
+
 
 ---
 
