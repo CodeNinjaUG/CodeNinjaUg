@@ -4,7 +4,7 @@
 
 <div align="center">
   <div align="center">
-      <img src="./readme.svg" alt="Typing SVG" />
+      <img src="/readme.svg" alt="Typing SVG" />
   </div>
 
 <p align="center">
