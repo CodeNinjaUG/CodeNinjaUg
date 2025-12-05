@@ -96,7 +96,6 @@ PHP               273 hrs         >>-----------------------   09.04 %
 
 <table>
 <tr>
-<tr>
 <td width="50%">
 
 ### 🏘️ EstateIQ — Real Estate Toolkit
@@ -110,9 +109,6 @@ Comprehensive real estate analytics tool offering property valuation insights, l
 
 </td>
 <td width="50%">
-</td>
-</tr>
-<td width="50%">
 
 ### 🛍️ Asasa Online Store
 [![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asasa.ug/)
@@ -124,6 +120,34 @@ A modern eCommerce platform offering a sleek user experience, fast product searc
 **Status:** ✅ Live
 
 </td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏨 Kingfisher Lodges
+[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kingfisherlodges.co.ug/)
+
+Beautiful hospitality website showcasing luxury lodge accommodations with seamless booking experience and stunning visuals.
+
+**Tech Stack:** `SvelteKit` `TailwindCSS` `JavaScript`
+
+**Status:** ✅ Live
+
+</td>
+<td width="50%">
+
+### 🔍 Missing Peoples App
+[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://missingpeoplesapp.com/)
+
+Community-driven platform to help reunite families by reporting and tracking missing persons with real-time alerts and notifications.
+
+**Tech Stack:** `SvelteKit` `Golang` `PostgreSQL` `TailwindCSS`
+
+**Status:** ✅ Live
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎥 IntexaTech Video Downloader
@@ -136,8 +160,6 @@ Free, browser-based video downloader supporting multiple social media platforms 
 **Status:** ✅ Live
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🏦 Simple Bank (Go)
@@ -151,6 +173,9 @@ Secure banking backend with JWT authentication, transaction management, and inte
 **Status:** 🔄 In Development
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 📊 EFRIS Integration Toolkit
@@ -164,9 +189,6 @@ T128 product registration for Uganda Revenue Authority, featuring context-rich e
 **Status:** ✅ Production
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🧾 Invoice Automation
@@ -180,6 +202,9 @@ Idempotent invoice creation system with goodsCode reconciliation, background wor
 **Status:** 🔧 Maintained
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🤖 AI Workflow Automations  
@@ -192,6 +217,8 @@ End-to-end AI integrations with n8n, custom chatbots for business automation, an
 
 **Tech Stack:** `n8n` `OpenAI` `Claude` `Python` `Go`
 
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
@@ -352,6 +379,9 @@ End-to-end AI integrations with n8n, custom chatbots for business automation, an
   </a>
   <a href="mailto:segayiandrew@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/256704277679">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://github.com/codeninjaug">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
