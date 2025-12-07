@@ -1,6 +1,6 @@
 <div style="font-family: 'Figtree', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
 
-# Hi 👋, I'm Segayi Andrew
+<div align="center"> # Hi 👋, I'm Segayi Andrew </div>
 
 <div align="center">
   <div align="center">
