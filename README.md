@@ -1,7 +1,13 @@
 <div style="font-family: 'Figtree', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
-
-<div align="center"> # Hi 👋, I'm Segayi Andrew </div>
-
+<h1 align="center" style="
+  text-align:center;
+  font-size:56px;
+  font-weight:800;
+  margin:0;
+  color:#000;
+">
+  Hi 👋, I'm <span style="color:#d4af37;">Segayi Andrew</span>
+</h1>
 <div align="center">
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Fullstack%20Developer;Go%20%26%20Vue.js%20Enthusiast;AI%20Integration%20Specialist;n8n%20Automation%20Expert;Custom%20AI%20Bot%20Creator;Webflow%20%26%20WordPress%20Expert;Plugin%20%26%20Theme%20Developer;Backend%20Architecture%20%26%20API%20Integration%20Specialist;Mobile%20%26%20Desktop%20App%20Developer;Database%20Design%20%26%20Optimization;Social%20Media%20%26%20Online%20Marketing%20Strategist;All%20IT%20Services%20at%20Your%20Desk%20%E2%9C%8A%F0%9F%8F%BF" alt="Typing SVG" />
