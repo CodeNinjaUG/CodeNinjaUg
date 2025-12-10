@@ -99,135 +99,157 @@ PHP               273 hrs         >>-----------------------   08.97 %
 
 ## 💼 Featured Projects
 
-
 <table>
+<!-- Row 1: EstateIQ, Asasa, Kingfisher -->
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🏘️ EstateIQ — Real Estate Toolkit
+### 🏘️ EstateIQ
 [![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://estateiq-9tj.pages.dev/)
+
+**Real Estate Analytics Toolkit**
 
 Comprehensive real estate analytics tool offering property valuation insights, lead tracking, and management dashboards.
 
-**Tech Stack:** `Vue.js` `Go` `TailwindCSS` `PostgreSQL`
+**Tech Stack:**  
+`Vue.js` `Go` `TailwindCSS` `PostgreSQL`
 
 **Status:** ✅ Live
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### 🛍️ Asasa Online Store
+### 🛍️ Asasa
 [![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asasa.ug/)
 
-A modern eCommerce platform offering a sleek user experience, fast product search, and mobile-optimized UI.
+**Online Store**
 
-**Tech Stack:** `Sveltekit` `Golang` `MySQL`
+Modern eCommerce platform with sleek user experience, fast product search, and mobile-optimized UI.
+
+**Tech Stack:**  
+`SvelteKit` `Golang` `MySQL`
 
 **Status:** ✅ Live
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="34%">
 
 ### 🏨 Kingfisher Lodges
 [![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kingfisherlodges.co.ug/)
 
-Beautiful hospitality website showcasing luxury lodge accommodations with seamless booking experience and stunning visuals.
+**Hospitality Website**
 
-**Tech Stack:** `SvelteKit` `TailwindCSS` `JavaScript`
+Beautiful luxury lodge website with seamless booking experience and stunning visuals.
 
-**Status:** ✅ Live
-
-</td>
-<td width="50%">
-
-### 🔍 Missing Peoples App
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://missingpeoplesapp.com/)
-
-Community-driven platform to help reunite families by reporting and tracking missing persons with real-time alerts and notifications.
-
-**Tech Stack:** `SvelteKit` `Golang` `PostgreSQL` `TailwindCSS`
+**Tech Stack:**  
+`SvelteKit` `TailwindCSS` `JavaScript`
 
 **Status:** ✅ Live
 
 </td>
 </tr>
+
+<!-- Row 2: Missing Peoples, Video Downloader, FemiShield -->
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🎥 IntexaTech Video Downloader
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://intexatechvideodownloader.pages.dev/)
+### 🔍 Missing Peoples
+[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://missingpeoplesapp.com/)
 
-Free, browser-based video downloader supporting multiple social media platforms with no login required.
+**Community Platform**
 
-**Tech Stack:** `SvelteKit` `JavaScript` `HTML` `CSS`
+Community-driven platform to reunite families by reporting and tracking missing persons with real-time alerts.
+
+**Tech Stack:**  
+`SvelteKit` `Golang` `PostgreSQL` `TailwindCSS`
 
 **Status:** ✅ Live
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### 🏦 Simple Bank (Go)
+### 🎥 IntexaTech
+[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://intexatechvideodownloader.pages.dev/)
+
+**Video Downloader**
+
+Free browser-based video downloader supporting multiple social media platforms with no login required.
+
+**Tech Stack:**  
+`SvelteKit` `JavaScript` `HTML` `CSS`
+
+**Status:** ✅ Live
+
+</td>
+<td width="34%">
+
+### 🧬 FemiShield
+[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://femishield.org/)
+
+**Women's Health Innovation**
+
+Pre-seed biotech startup developing dissolvable vaginal film for bacterial vaginosis treatment.
+
+**Tech Stack:**  
+`SvelteKit` `GSAP` `TailwindCSS` `EmailJS`
+
+**Status:** ✅ Live
+
+</td>
+</tr>
+
+<!-- Row 3: Simple Bank, EFRIS, AI Automations -->
+<tr>
+<td width="33%">
+
+### 🏦 Simple Bank
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-3b82f6?style=for-the-badge&logo=github)](https://github.com/codeninjaug/simple_bank_golang)
 [![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://simplebank.codeninjaug.com)
 
-Secure banking backend with JWT authentication, transaction management, and integration-ready RESTful APIs.
+**Banking Backend (Go)**
 
-**Tech Stack:** `Go` `PostgreSQL` `Docker` `JWT`
+Secure banking backend with JWT authentication, transaction management, and RESTful APIs.
+
+**Tech Stack:**  
+`Go` `PostgreSQL` `Docker` `JWT`
 
 **Status:** 🔄 In Development
 
 </td>
-</tr>
+<td width="33%">
 
-<tr>
-<td width="50%">
-
-### 🧬 FemiShield — Women's Health Innovation
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://femishield.org/)
-
-Pre-seed biotech startup developing a dissolvable mucoadhesive vaginal film delivering plant-derived antibiofilm compounds for bacterial vaginosis treatment.
-
-**Tech Stack:** `SvelteKit` `GSAP` `TailwindCSS` `EmailJS`
-
-**Status:** ✅ Live
-
-</td>
-<td width="50%">
-
-### 📊 EFRIS Integration Toolkit
+### 📊 EFRIS Toolkit
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-3b82f6?style=for-the-badge&logo=github)](https://github.com/codeninjaug/epris-toolkit)
 [![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://invoice.codeninjaug.com)
 
-T128 product registration for Uganda Revenue Authority, featuring context-rich error diagnostics and batch CLI.
+**Integration Toolkit**
 
-**Tech Stack:** `Go` `PHP` `CLI Tools`
+T128 product registration for Uganda Revenue Authority with error diagnostics and batch CLI.
+
+**Tech Stack:**  
+`Go` `PHP` `CLI Tools`
 
 **Status:** ✅ Production
 
 </td>
-</tr>
+<td width="34%">
 
-<tr>
-<td width="50%">
-
-### 🤖 AI Workflow Automations  
-**Custom Solutions Available**
-
+### 🤖 AI Automations
 [![Contact](https://img.shields.io/badge/Get_Started-3b82f6?style=for-the-badge&logo=rocket&logoColor=white)](mailto:segayiandrew@gmail.com)
 [![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ai-automation.codeninjaug.com)
 
-End-to-end AI integrations with n8n, custom chatbots for business automation, and intelligent data processing pipelines.
+**Custom Solutions**
 
-**Tech Stack:** `n8n` `OpenAI` `Claude` `Python` `Go`
+End-to-end AI integrations with n8n, custom chatbots, and intelligent data pipelines.
 
-</td>
-<td width="50%">
+**Tech Stack:**  
+`n8n` `OpenAI` `Claude` `Python` `Go`
+
+**Status:** 💼 Available for Hire
+
 </td>
 </tr>
 </table>
-
 
 ---
 
