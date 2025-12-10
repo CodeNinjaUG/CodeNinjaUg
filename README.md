@@ -184,6 +184,18 @@ Secure banking backend with JWT authentication, transaction management, and inte
 <tr>
 <td width="50%">
 
+### 🧬 FemiShield — Women's Health Innovation
+[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://femishield.org/)
+
+Pre-seed biotech startup developing a dissolvable mucoadhesive vaginal film delivering plant-derived antibiofilm compounds for bacterial vaginosis treatment.
+
+**Tech Stack:** `SvelteKit` `GSAP` `TailwindCSS` `EmailJS`
+
+**Status:** ✅ Live
+
+</td>
+<td width="50%">
+
 ### 📊 EFRIS Integration Toolkit
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-3b82f6?style=for-the-badge&logo=github)](https://github.com/codeninjaug/epris-toolkit)
 [![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://invoice.codeninjaug.com)
@@ -193,19 +205,6 @@ T128 product registration for Uganda Revenue Authority, featuring context-rich e
 **Tech Stack:** `Go` `PHP` `CLI Tools`
 
 **Status:** ✅ Production
-
-</td>
-<td width="50%">
-
-### 🧾 Invoice Automation
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-3b82f6?style=for-the-badge&logo=github)](https://github.com/codeninjaug/invoice-automation)
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://invoice.codeninjaug.com)
-
-Idempotent invoice creation system with goodsCode reconciliation, background workers, and automated alerts.
-
-**Tech Stack:** `Laravel` `MySQL` `Redis` `Queues`
-
-**Status:** 🔧 Maintained
 
 </td>
 </tr>
