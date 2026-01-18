@@ -82,7 +82,7 @@ Passionate **fullstack developer** and **AI integration specialist** with nearly
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2022 - To: 15 January 2026
+From: 25 October 2022 - To: 16 January 2026
 
 Total Time: 3,161 hrs 1 min
 
