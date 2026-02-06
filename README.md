@@ -99,157 +99,230 @@ SQL               276 hrs 35 mins >>-----------------------   08.63 %
 
 ## 💼 Featured Projects
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+</div>
+
 <table>
-<!-- Row 1: EstateIQ, Asasa, Kingfisher -->
 <tr>
-<td width="33%">
+<td width="25%" align="center">
+<br>
 
-### 🏘️ EstateIQ
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://estateiq-9tj.pages.dev/)
+<img src="https://img.shields.io/badge/EstateIQ-Real_Estate-10B981?style=for-the-badge&logo=building&logoColor=white" />
 
-**Real Estate Analytics Toolkit**
+**Property Analytics Platform**
 
-Comprehensive real estate analytics tool offering property valuation insights, lead tracking, and management dashboards.
+Comprehensive toolkit with valuation insights & management dashboards
 
-**Tech Stack:**  
-`Vue.js` `Go` `TailwindCSS` `PostgreSQL`
+`Vue.js` • `Go` • `PostgreSQL`
 
-**Status:** ✅ Live
+[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://estateiq-9tj.pages.dev/)
 
+<br>
 </td>
-<td width="33%">
+<td width="25%" align="center">
+<br>
 
-### 🛍️ Asasa
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asasa.ug/)
+<img src="https://img.shields.io/badge/Asasa-eCommerce-FF6B6B?style=for-the-badge&logo=shopping-cart&logoColor=white" />
 
-**Online Store**
+**Modern Online Store**
 
-Modern eCommerce platform with sleek user experience, fast product search, and mobile-optimized UI.
+Fast mobile-optimized shopping with seamless checkout
 
-**Tech Stack:**  
-`SvelteKit` `Golang` `MySQL`
+`SvelteKit` • `Golang` • `MySQL`
 
-**Status:** ✅ Live
+[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://asasa.ug/)
 
+<br>
 </td>
-<td width="34%">
+<td width="25%" align="center">
+<br>
 
-### 🏨 Kingfisher Lodges
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kingfisherlodges.co.ug/)
+<img src="https://img.shields.io/badge/Kingfisher-Hospitality-D4AF37?style=for-the-badge&logo=hotel&logoColor=white" />
 
-**Hospitality Website**
+**Luxury Lodge Website**
 
-Beautiful luxury lodge website with seamless booking experience and stunning visuals.
+Stunning visuals with immersive booking experience
 
-**Tech Stack:**  
-`SvelteKit` `TailwindCSS` `JavaScript`
+`SvelteKit` • `TailwindCSS` • `JS`
 
-**Status:** ✅ Live
+[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://kingfisherlodges.co.ug/)
 
+<br>
 </td>
-</tr>
+<td width="25%" align="center">
+<br>
 
-<!-- Row 2: Missing Peoples, Video Downloader, FemiShield -->
-<tr>
-<td width="33%">
+<img src="https://img.shields.io/badge/Missing_Peoples-Community-3B82F6?style=for-the-badge&logo=users&logoColor=white" />
 
-### 🔍 Missing Peoples
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://missingpeoplesapp.com/)
+**Reunification Platform**
 
-**Community Platform**
+Community tool for tracking missing persons
 
-Community-driven platform to reunite families by reporting and tracking missing persons with real-time alerts.
+`SvelteKit` • `Go` • `PostgreSQL`
 
-**Tech Stack:**  
-`SvelteKit` `Golang` `PostgreSQL` `TailwindCSS`
+[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://missingpeoplesapp.com/)
 
-**Status:** ✅ Live
-
-</td>
-<td width="33%">
-
-### 🎥 IntexaTech
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://intexatechvideodownloader.pages.dev/)
-
-**Video Downloader**
-
-Free browser-based video downloader supporting multiple social media platforms with no login required.
-
-**Tech Stack:**  
-`SvelteKit` `JavaScript` `HTML` `CSS`
-
-**Status:** ✅ Live
-
-</td>
-<td width="34%">
-
-### 🧬 FemiShield
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://femishield.org/)
-
-**Women's Health Innovation**
-
-Pre-seed biotech startup developing dissolvable vaginal film for bacterial vaginosis treatment.
-
-**Tech Stack:**  
-`SvelteKit` `GSAP` `TailwindCSS` `EmailJS`
-
-**Status:** ✅ Live
-
-</td>
-</tr>
-
-<!-- Row 3: Simple Bank, EFRIS, AI Automations -->
-<tr>
-<td width="33%">
-
-### 🏦 Simple Bank
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-3b82f6?style=for-the-badge&logo=github)](https://github.com/codeninjaug/simple_bank_golang)
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://simplebank.codeninjaug.com)
-
-**Banking Backend (Go)**
-
-Secure banking backend with JWT authentication, transaction management, and RESTful APIs.
-
-**Tech Stack:**  
-`Go` `PostgreSQL` `Docker` `JWT`
-
-**Status:** 🔄 In Development
-
-</td>
-<td width="33%">
-
-### 📊 EFRIS Toolkit
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-3b82f6?style=for-the-badge&logo=github)](https://github.com/codeninjaug/epris-toolkit)
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://invoice.codeninjaug.com)
-
-**Integration Toolkit**
-
-T128 product registration for Uganda Revenue Authority with error diagnostics and batch CLI.
-
-**Tech Stack:**  
-`Go` `PHP` `CLI Tools`
-
-**Status:** ✅ Production
-
-</td>
-<td width="34%">
-
-### 🤖 AI Automations
-[![Contact](https://img.shields.io/badge/Get_Started-3b82f6?style=for-the-badge&logo=rocket&logoColor=white)](mailto:segayiandrew@gmail.com)
-[![Live](https://img.shields.io/badge/🔗_View_Project-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ai-automation.codeninjaug.com)
-
-**Custom Solutions**
-
-End-to-end AI integrations with n8n, custom chatbots, and intelligent data pipelines.
-
-**Tech Stack:**  
-`n8n` `OpenAI` `Claude` `Python` `Go`
-
-**Status:** 💼 Available for Hire
-
+<br>
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="25%" align="center">
+<br>
+
+<img src="https://img.shields.io/badge/IntexaTech-Media-F59E0B?style=for-the-badge&logo=video&logoColor=white" />
+
+**Video Downloader**
+
+Free browser-based multi-platform downloader
+
+`SvelteKit` • `JavaScript` • `HTML`
+
+[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://intexatechvideodownloader.pages.dev/)
+
+<br>
+</td>
+<td width="25%" align="center">
+<br>
+
+<img src="https://img.shields.io/badge/FemiShield-HealthTech-EC4899?style=for-the-badge&logo=heart&logoColor=white" />
+
+**Women's Health Innovation**
+
+Biotech startup for BV treatment
+
+`SvelteKit` • `GSAP` • `TailwindCSS`
+
+[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://femishield.org/)
+
+<br>
+</td>
+<td width="25%" align="center">
+<br>
+
+<img src="https://img.shields.io/badge/GoAfro-Travel-0073AA?style=for-the-badge&logo=wordpress&logoColor=white" />
+
+**African Travel Platform**
+
+International marketplace for African experiences
+
+`WordPress` • `PHP` • `MySQL`
+
+[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://goafro.no/)
+
+<br>
+</td>
+<td width="25%" align="center">
+<br>
+
+<img src="https://img.shields.io/badge/Dark_Horse-Business-1E293B?style=for-the-badge&logo=rocket&logoColor=white" />
+
+**Corporate Solutions**
+
+Professional business platform & portfolio
+
+`SvelteKit` • `SQLite` • `TailwindCSS`
+
+[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://darkhorseug.com/)
+
+<br>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="25%" align="center">
+<br>
+
+<img src="https://img.shields.io/badge/Bizness_Book-Mobile_App-6366F1?style=for-the-badge&logo=android&logoColor=white" />
+
+**All-in-One Business Manager**
+
+Inventory, sales, accounting & analytics
+
+`Kotlin` • `Firebase` • `Jetpack Compose`
+
+[![Download](https://img.shields.io/badge/Download_App-6366F1?style=flat-square&logo=android&logoColor=white)](https://bizness-book.com/)
+
+<br>
+</td>
+<td width="25%" align="center">
+<br>
+
+<img src="https://img.shields.io/badge/Simple_Bank-Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+**Secure Banking System**
+
+JWT auth, transactions & RESTful APIs
+
+`Go` • `PostgreSQL` • `Docker` • `JWT`
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/codeninjaug/simple_bank_golang)
+[![Demo](https://img.shields.io/badge/View_Demo-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://simplebank.codeninjaug.com)
+
+🔄 _In Development_
+
+<br>
+</td>
+<td width="25%" align="center">
+<br>
+
+<img src="https://img.shields.io/badge/EFRIS-Tax_Tech-059669?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+**URA Integration Toolkit**
+
+T128 product registration & CLI tools
+
+`Go` • `PHP` • `CLI Tools`
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/codeninjaug/epris-toolkit)
+[![Live](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://invoice.codeninjaug.com)
+
+<br>
+</td>
+<td width="25%" align="center">
+<br>
+
+<img src="https://img.shields.io/badge/AI_Automations-Custom_Bots-7C3AED?style=for-the-badge&logo=robot&logoColor=white" />
+
+**Intelligent Solutions**
+
+End-to-end AI integrations & workflows
+
+`n8n` • `OpenAI` • `Claude` • `Python` • `Go`
+
+[![Get Started](https://img.shields.io/badge/Hire_Me-3B82F6?style=flat-square&logo=handshake&logoColor=white)](mailto:segayiandrew@gmail.com)
+
+💼 _Available for Hire_
+
+<br>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer" width="100%"/>
+
+<br>
+
+![Projects](https://img.shields.io/badge/Production_Projects-12+-10B981?style=for-the-badge&logo=rocket&logoColor=white)
+![Experience](https://img.shields.io/badge/Coding_Hours-70K+-3B82F6?style=for-the-badge&logo=clock&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Technologies-20+-F59E0B?style=for-the-badge&logo=stackshare&logoColor=white)
+
+<br>
+
+### 💡 Ready to Build Your Next Project?
+
+[![Contact Me](https://img.shields.io/badge/📧_Let's_Talk_Business-d4af37?style=for-the-badge&logoColor=white)](mailto:segayiandrew@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/256704277679)
+
+</div>
+
+---
 
 ---
 
