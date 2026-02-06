@@ -1,19 +1,23 @@
-<div style="font-family: 'Figtree', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
+<div style="font-family: 'Google Sans Flex', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&display=swap" rel="stylesheet">
 <h1 align="center" style="
   text-align:center;
   font-size:56px;
   font-weight:800;
   margin:0;
   color:#000;
+  font-family: 'Google Sans', sans-serif;
 ">
   Hi 👋, I'm <span style="color:#d4af37;">Segayi Andrew</span>
 </h1>
 <div align="center">
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Fullstack%20Developer;Go%20%26%20Vue.js%20Enthusiast;AI%20Integration%20Specialist;n8n%20Automation%20Expert;Custom%20AI%20Bot%20Creator;Webflow%20%26%20WordPress%20Expert;Plugin%20%26%20Theme%20Developer;Backend%20Architecture%20%26%20API%20Integration%20Specialist;Mobile%20%26%20Desktop%20App%20Developer;Database%20Design%20%26%20Optimization;Social%20Media%20%26%20Online%20Marketing%20Strategist;All%20IT%20Services%20at%20Your%20Desk%20%E2%9C%8A%F0%9F%8F%BF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Fullstack%20Developer;Go%20%26%20Vue.js%20Enthusiast;AI%20Integration%20Specialist;n8n%20Automation%20Expert;Custom%20AI%20Bot%20Creator;Webflow%20%26%20WordPress%20Expert;Plugin%20%26%20Theme%20Developer;Backend%20Architecture%20%26%20API%20Integration%20Specialist;Mobile%20%26%20Desktop%20App%20Developer;Database%20Design%20%26%20Optimization;Social%20Media%20%26%20Online%20Marketing%20Strategist;All%20IT%20Services%20at%20Your%20Desk%20%E2%9C%8A%F0%9F%8F%BF" alt="Typing SVG" />
 </div>
 
-<p align="center">
+<p align="center" style="font-family: 'Google Sans', sans-serif;">
   💻 Web Design & Development • 📱 Mobile Apps • ⚙️ Software & System Development • 🗄️ Database Design & API Integration • 🌐 WordPress Migration & Plugin Dev • 🤖 AI Bots & Automation • 📈 Social Media & Online Marketing • 💡 All IT Consultancy Services
 </p>
 
@@ -407,49 +411,6 @@ Safari tours company
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer" width="100%"/>
-
-<br>
-
-![Projects](https://img.shields.io/badge/Production_Projects-12+-10B981?style=for-the-badge&logo=rocket&logoColor=white)
-![Experience](https://img.shields.io/badge/Coding_Hours-70K+-3B82F6?style=for-the-badge&logo=clock&logoColor=white)
-![Total Project Hours](https://img.shields.io/badge/Project_Hours-3,400+-F59E0B?style=for-the-badge&logo=clock&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/Technologies-20+-EC4899?style=for-the-badge&logo=stackshare&logoColor=white)
-
-<br>
-
-### 💡 Ready to Build Your Next Project?
-
-<a href="mailto:segayiandrew@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/📧_Let's_Talk_Business-d4af37?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://wa.me/256704277679" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-</div>
----
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer" width="100%"/>
-
-<br>
-
-![Projects](https://img.shields.io/badge/Production_Projects-12+-10B981?style=for-the-badge&logo=rocket&logoColor=white)
-![Experience](https://img.shields.io/badge/Coding_Hours-70K+-3B82F6?style=for-the-badge&logo=clock&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/Technologies-20+-F59E0B?style=for-the-badge&logo=stackshare&logoColor=white)
-
-<br>
-
-### 💡 Ready to Build Your Next Project?
-
-[![Contact Me](https://img.shields.io/badge/📧_Let's_Talk_Business-d4af37?style=for-the-badge&logoColor=white)](mailto:segayiandrew@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/256704277679)
-
-</div>
-
----
-
 ---
 
 ## 🛠️ Tech Stack
@@ -638,7 +599,7 @@ Safari tours company
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontFamily=Figtree" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontFamily=Google+Sans" />
 </div>
 
 <p align="center">
