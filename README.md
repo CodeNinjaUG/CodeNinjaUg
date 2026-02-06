@@ -104,188 +104,149 @@ SQL               276 hrs 35 mins >>-----------------------   08.63 %
 
 <table>
 <tr>
-<td width="33%" align="center">
-<div style="padding: 15px;">
+<td width="25%" align="center">
+<div style="padding: 12px;">
 
 ### 🏢 **EstateIQ**
-<img src="https://img.shields.io/badge/Real_Estate_Analytics-10B981?style=for-the-badge&logo=building&logoColor=white" />
+<img src="https://img.shields.io/badge/Real_Estate-10B981?style=for-the-badge&logo=building&logoColor=white" />
 
-**Property Analytics Platform**
-
-Comprehensive toolkit with valuation insights & management dashboards
+Property analytics & management platform
 
 `Vue.js` • `Go` • `PostgreSQL`
 
 ⏱️ **320+ hours**
 
-<a href="https://estateiq-9tj.pages.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-10B981?style=for-the-badge" />
+<a href="https://estateiq-9tj.pages.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_Live-10B981?style=for-the-badge" />
 </a>
 
 </div>
 </td>
-<td width="33%" align="center">
-<div style="padding: 15px;">
+<td width="25%" align="center">
+<div style="padding: 12px;">
 
 ### 🛒 **Asasa**
-<img src="https://img.shields.io/badge/eCommerce_Platform-FF6B6B?style=for-the-badge&logo=shopping-cart&logoColor=white" />
+<img src="https://img.shields.io/badge/eCommerce-FF6B6B?style=for-the-badge&logo=shopping-cart&logoColor=white" />
 
-**Modern Online Store**
-
-Fast mobile-optimized shopping with seamless checkout
+Modern online shopping platform
 
 `SvelteKit` • `Golang` • `MySQL`
 
 ⏱️ **280+ hours**
 
-<a href="https://asasa.ug/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Live_Store-FF6B6B?style=for-the-badge" />
+<a href="https://asasa.ug/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_Store-FF6B6B?style=for-the-badge" />
 </a>
 
 </div>
 </td>
-<td width="33%" align="center">
-<div style="padding: 15px;">
+<td width="25%" align="center">
+<div style="padding: 12px;">
 
-### 🏨 **Kingfisher Lodges**
-<img src="https://img.shields.io/badge/Luxury_Hospitality-D4AF37?style=for-the-badge&logo=hotel&logoColor=white" />
+### 🏨 **Kingfisher**
+<img src="https://img.shields.io/badge/Hospitality-D4AF37?style=for-the-badge&logo=hotel&logoColor=white" />
 
-**Premium Lodge Website**
-
-Stunning visuals with immersive booking experience
+Luxury lodge booking website
 
 `SvelteKit` • `TailwindCSS` • `JS`
 
 ⏱️ **180+ hours**
 
-<a href="https://kingfisherlodges.co.ug/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Visit_Site-D4AF37?style=for-the-badge" />
+<a href="https://kingfisherlodges.co.ug/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_Visit-D4AF37?style=for-the-badge" />
 </a>
 
 </div>
 </td>
-</tr>
-
-<tr>
-<td width="33%" align="center">
-<div style="padding: 15px;">
+<td width="25%" align="center">
+<div style="padding: 12px;">
 
 ### 👥 **Missing Peoples**
-<img src="https://img.shields.io/badge/Community_Safety-3B82F6?style=for-the-badge&logo=users&logoColor=white" />
+<img src="https://img.shields.io/badge/Community-3B82F6?style=for-the-badge&logo=users&logoColor=white" />
 
-**Reunification Platform**
-
-Community tool for tracking missing persons
+Reunification platform
 
 `SvelteKit` • `Go` • `PostgreSQL`
 
 ⏱️ **420+ hours**
 
-<a href="https://missingpeoplesapp.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Explore-3B82F6?style=for-the-badge" />
+<a href="https://missingpeoplesapp.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_App-3B82F6?style=for-the-badge" />
 </a>
 
 </div>
 </td>
-<td width="33%" align="center">
-<div style="padding: 15px;">
+</tr>
+
+<tr>
+<td width="25%" align="center">
+<div style="padding: 12px;">
 
 ### 📹 **IntexaTech**
 <img src="https://img.shields.io/badge/Media_Tools-F59E0B?style=for-the-badge&logo=video&logoColor=white" />
 
-**Video Downloader**
-
-Free browser-based multi-platform downloader
+Universal video downloader
 
 `SvelteKit` • `JavaScript` • `HTML`
 
 ⏱️ **120+ hours**
 
-<a href="https://intexatechvideodownloader.pages.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Try_Now-F59E0B?style=for-the-badge" />
+<a href="https://intexatechvideodownloader.pages.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_Try-F59E0B?style=for-the-badge" />
 </a>
 
 </div>
 </td>
-<td width="33%" align="center">
-<div style="padding: 15px;">
+<td width="25%" align="center">
+<div style="padding: 12px;">
 
 ### 💊 **FemiShield**
-<img src="https://img.shields.io/badge/Women's_HealthTech-EC4899?style=for-the-badge&logo=heart&logoColor=white" />
+<img src="https://img.shields.io/badge/HealthTech-EC4899?style=for-the-badge&logo=heart&logoColor=white" />
 
-**Biotech Innovation**
-
-Women's health platform for BV treatment
+Women's health biotech
 
 `SvelteKit` • `GSAP` • `TailwindCSS`
 
 ⏱️ **150+ hours**
 
-<a href="https://femishield.org/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Learn_More-EC4899?style=for-the-badge" />
+<a href="https://femishield.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_Learn-EC4899?style=for-the-badge" />
 </a>
 
 </div>
 </td>
-</tr>
+<td width="25%" align="center">
+<div style="padding: 12px;">
 
-<tr>
-<td width="33%" align="center">
-<div style="padding: 15px;">
+### 💇 **GoAfro**
+<img src="https://img.shields.io/badge/Beauty-8B5CF6?style=for-the-badge&logo=shopping-bag&logoColor=white" />
 
-### ✈️ **GoAfro**
-<img src="https://img.shields.io/badge/Travel_&_Tourism-0073AA?style=for-the-badge&logo=wordpress&logoColor=white" />
-
-**African Travel Marketplace**
-
-International platform for African experiences
+Norwegian wig & hair products marketplace
 
 `WordPress` • `PHP` • `MySQL`
 
 ⏱️ **240+ hours**
 
-<a href="https://goafro.no/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Explore-0073AA?style=for-the-badge" />
+<a href="https://goafro.no/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_Shop-8B5CF6?style=for-the-badge" />
 </a>
 
 </div>
 </td>
-<td width="33%" align="center">
-<div style="padding: 15px;">
+<td width="25%" align="center">
+<div style="padding: 12px;">
 
-### 🚀 **Dark Horse**
-<img src="https://img.shields.io/badge/Business_Solutions-1E293B?style=for-the-badge&logo=rocket&logoColor=white" />
+### 🎨 **Dark Horse**
+<img src="https://img.shields.io/badge/Design-1E293B?style=for-the-badge&logo=palette&logoColor=white" />
 
-**Corporate Platform**
-
-Professional business solutions & portfolio
+Graphics design company
 
 `SvelteKit` • `SQLite` • `TailwindCSS`
 
 ⏱️ **200+ hours**
 
-<a href="https://darkhorseug.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-1E293B?style=for-the-badge" />
-</a>
-
-</div>
-</td>
-<td width="33%" align="center">
-<div style="padding: 15px;">
-
-### 📱 **Bizness Book**
-<img src="https://img.shields.io/badge/Mobile_Business_App-6366F1?style=for-the-badge&logo=android&logoColor=white" />
-
-**All-in-One Manager**
-
-Inventory, sales, accounting & analytics
-
-`Kotlin` • `Firebase` • `Jetpack Compose`
-
-⏱️ **850+ hours**
-
-<a href="https://bizness-book.com/" target="_blank">
-  <img src="https://img.shields.io/badge/📱_Download-6366F1?style=for-the-badge" />
+<a href="https://darkhorseug.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_View-1E293B?style=for-the-badge" />
 </a>
 
 </div>
@@ -293,74 +254,158 @@ Inventory, sales, accounting & analytics
 </tr>
 
 <tr>
-<td width="33%" align="center">
-<div style="padding: 15px;">
+<td width="25%" align="center">
+<div style="padding: 12px;">
+
+### 📱 **Bizness Book**
+<img src="https://img.shields.io/badge/Mobile_App-6366F1?style=for-the-badge&logo=android&logoColor=white" />
+
+All-in-one business manager
+
+`Kotlin` • `Firebase` • `Compose`
+
+⏱️ **850+ hours**
+
+<a href="https://bizness-book.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/📱_Download-6366F1?style=for-the-badge" />
+</a>
+
+</div>
+</td>
+<td width="25%" align="center">
+<div style="padding: 12px;">
 
 ### 🏦 **Simple Bank**
-<img src="https://img.shields.io/badge/Backend_System-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
-**Secure Banking API**
+Secure banking API system
 
-JWT auth, transactions & RESTful APIs
+`Go` • `PostgreSQL` • `Docker`
 
-`Go` • `PostgreSQL` • `Docker` • `JWT`
+⏱️ **380+ hours** 🔄
 
-⏱️ **380+ hours** • 🔄 _In Development_
-
-<a href="https://github.com/codeninjaug/simple_bank_golang" target="_blank">
-  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/codeninjaug/simple_bank_golang" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://simplebank.codeninjaug.com" target="_blank">
+<a href="https://simplebank.codeninjaug.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/🌐_Demo-00ADD8?style=for-the-badge" />
 </a>
 
 </div>
 </td>
-<td width="33%" align="center">
-<div style="padding: 15px;">
+<td width="25%" align="center">
+<div style="padding: 12px;">
 
 ### 🧾 **EFRIS Toolkit**
-<img src="https://img.shields.io/badge/Tax_Technology-059669?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Tax_Tech-059669?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
-**URA Integration**
+URA tax integration tools
 
-T128 product registration & CLI tools
-
-`Go` • `PHP` • `CLI Tools`
+`Go` • `PHP` • `CLI`
 
 ⏱️ **290+ hours**
 
-<a href="https://github.com/codeninjaug/epris-toolkit" target="_blank">
-  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/codeninjaug/epris-toolkit" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/💻_Code-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://invoice.codeninjaug.com" target="_blank">
+<a href="https://invoice.codeninjaug.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/🌐_Demo-059669?style=for-the-badge" />
 </a>
 
 </div>
 </td>
-<td width="33%" align="center">
-<div style="padding: 15px;">
+<td width="25%" align="center">
+<div style="padding: 12px;">
 
 ### 🤖 **AI Automation**
-<img src="https://img.shields.io/badge/Custom_AI_Bots-7C3AED?style=for-the-badge&logo=robot&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Bots-7C3AED?style=for-the-badge&logo=robot&logoColor=white" />
 
-**Intelligent Solutions**
+Custom AI integrations
 
-End-to-end AI integrations & workflows
+`n8n` • `OpenAI` • `Claude`
 
-`n8n` • `OpenAI` • `Claude` • `Python`
+⏱️ **500+ hours** 💼
 
-⏱️ **500+ hours** • 💼 _Available for Hire_
-
-<a href="mailto:segayiandrew@gmail.com?subject=AI%20Automation%20Inquiry" target="_blank">
-  <img src="https://img.shields.io/badge/💼_Hire_Me-3B82F6?style=for-the-badge" />
+<a href="mailto:segayiandrew@gmail.com?subject=AI%20Automation%20Inquiry" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/💼_Hire-3B82F6?style=for-the-badge" />
 </a>
 
 </div>
 </td>
 </tr>
+
+<tr>
+<td width="25%" align="center">
+<div style="padding: 12px;">
+
+### 🦍 **Gorilla Specialist**
+<img src="https://img.shields.io/badge/Safari_Tours-2D6A4F?style=for-the-badge&logo=compass&logoColor=white" />
+
+African safari experiences
+
+`WordPress` • `PHP` • `MySQL`
+
+⏱️ **180+ hours**
+
+<a href="https://gorillaspecialist.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_Explore-2D6A4F?style=for-the-badge" />
+</a>
+
+</div>
+</td>
+<td width="25%" align="center">
+<div style="padding: 12px;">
+
+### 🌍 **Gorilla League Safaris**
+<img src="https://img.shields.io/badge/Travel-52796F?style=for-the-badge&logo=map&logoColor=white" />
+
+Safari tours company
+
+`WordPress` • `PHP` • `MySQL`
+
+⏱️ **160+ hours**
+
+<a href="https://gorillaleaguesafaris.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_Discover-52796F?style=for-the-badge" />
+</a>
+
+</div>
+</td>
+<td width="25%" align="center">
+<div style="padding: 12px;">
+
+</div>
+</td>
+<td width="25%" align="center">
+<div style="padding: 12px;">
+
+</div>
+</td>
+</tr>
 </table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer" width="100%"/>
+
+<br>
+
+![Projects](https://img.shields.io/badge/Production_Projects-14+-10B981?style=for-the-badge&logo=rocket&logoColor=white)
+![Experience](https://img.shields.io/badge/Total_Hours-70K+-3B82F6?style=for-the-badge&logo=clock&logoColor=white)
+![Project Hours](https://img.shields.io/badge/Project_Hours-3,700+-F59E0B?style=for-the-badge&logo=stopwatch&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Technologies-20+-EC4899?style=for-the-badge&logo=stackshare&logoColor=white)
+
+<br>
+
+### 💡 Ready to Build Your Next Project?
+
+<a href="mailto:segayiandrew@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/📧_Let's_Talk_Business-d4af37?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://wa.me/256704277679" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer" width="100%"/>
