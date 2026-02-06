@@ -96,7 +96,6 @@ SQL               276 hrs 35 mins >>-----------------------   08.63 %
 <!--END_SECTION:waka-->
 
 ---
-
 ## 💼 Featured Projects
 
 <div align="center">
@@ -105,10 +104,11 @@ SQL               276 hrs 35 mins >>-----------------------   08.63 %
 
 <table>
 <tr>
-<td width="25%" align="center">
-<br>
+<td width="33%" align="center">
+<div style="padding: 15px;">
 
-<img src="https://img.shields.io/badge/EstateIQ-Real_Estate-10B981?style=for-the-badge&logo=building&logoColor=white" />
+### 🏢 **EstateIQ**
+<img src="https://img.shields.io/badge/Real_Estate_Analytics-10B981?style=for-the-badge&logo=building&logoColor=white" />
 
 **Property Analytics Platform**
 
@@ -116,14 +116,19 @@ Comprehensive toolkit with valuation insights & management dashboards
 
 `Vue.js` • `Go` • `PostgreSQL`
 
-[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://estateiq-9tj.pages.dev/)
+⏱️ **320+ hours**
 
-<br>
+<a href="https://estateiq-9tj.pages.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-10B981?style=for-the-badge" />
+</a>
+
+</div>
 </td>
-<td width="25%" align="center">
-<br>
+<td width="33%" align="center">
+<div style="padding: 15px;">
 
-<img src="https://img.shields.io/badge/Asasa-eCommerce-FF6B6B?style=for-the-badge&logo=shopping-cart&logoColor=white" />
+### 🛒 **Asasa**
+<img src="https://img.shields.io/badge/eCommerce_Platform-FF6B6B?style=for-the-badge&logo=shopping-cart&logoColor=white" />
 
 **Modern Online Store**
 
@@ -131,29 +136,42 @@ Fast mobile-optimized shopping with seamless checkout
 
 `SvelteKit` • `Golang` • `MySQL`
 
-[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://asasa.ug/)
+⏱️ **280+ hours**
 
-<br>
+<a href="https://asasa.ug/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Store-FF6B6B?style=for-the-badge" />
+</a>
+
+</div>
 </td>
-<td width="25%" align="center">
-<br>
+<td width="33%" align="center">
+<div style="padding: 15px;">
 
-<img src="https://img.shields.io/badge/Kingfisher-Hospitality-D4AF37?style=for-the-badge&logo=hotel&logoColor=white" />
+### 🏨 **Kingfisher Lodges**
+<img src="https://img.shields.io/badge/Luxury_Hospitality-D4AF37?style=for-the-badge&logo=hotel&logoColor=white" />
 
-**Luxury Lodge Website**
+**Premium Lodge Website**
 
 Stunning visuals with immersive booking experience
 
 `SvelteKit` • `TailwindCSS` • `JS`
 
-[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://kingfisherlodges.co.ug/)
+⏱️ **180+ hours**
 
-<br>
+<a href="https://kingfisherlodges.co.ug/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Visit_Site-D4AF37?style=for-the-badge" />
+</a>
+
+</div>
 </td>
-<td width="25%" align="center">
-<br>
+</tr>
 
-<img src="https://img.shields.io/badge/Missing_Peoples-Community-3B82F6?style=for-the-badge&logo=users&logoColor=white" />
+<tr>
+<td width="33%" align="center">
+<div style="padding: 15px;">
+
+### 👥 **Missing Peoples**
+<img src="https://img.shields.io/badge/Community_Safety-3B82F6?style=for-the-badge&logo=users&logoColor=white" />
 
 **Reunification Platform**
 
@@ -161,19 +179,19 @@ Community tool for tracking missing persons
 
 `SvelteKit` • `Go` • `PostgreSQL`
 
-[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://missingpeoplesapp.com/)
+⏱️ **420+ hours**
 
-<br>
+<a href="https://missingpeoplesapp.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Explore-3B82F6?style=for-the-badge" />
+</a>
+
+</div>
 </td>
-</tr>
-</table>
+<td width="33%" align="center">
+<div style="padding: 15px;">
 
-<table>
-<tr>
-<td width="25%" align="center">
-<br>
-
-<img src="https://img.shields.io/badge/IntexaTech-Media-F59E0B?style=for-the-badge&logo=video&logoColor=white" />
+### 📹 **IntexaTech**
+<img src="https://img.shields.io/badge/Media_Tools-F59E0B?style=for-the-badge&logo=video&logoColor=white" />
 
 **Video Downloader**
 
@@ -181,129 +199,192 @@ Free browser-based multi-platform downloader
 
 `SvelteKit` • `JavaScript` • `HTML`
 
-[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://intexatechvideodownloader.pages.dev/)
+⏱️ **120+ hours**
 
-<br>
+<a href="https://intexatechvideodownloader.pages.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Try_Now-F59E0B?style=for-the-badge" />
+</a>
+
+</div>
 </td>
-<td width="25%" align="center">
-<br>
+<td width="33%" align="center">
+<div style="padding: 15px;">
 
-<img src="https://img.shields.io/badge/FemiShield-HealthTech-EC4899?style=for-the-badge&logo=heart&logoColor=white" />
+### 💊 **FemiShield**
+<img src="https://img.shields.io/badge/Women's_HealthTech-EC4899?style=for-the-badge&logo=heart&logoColor=white" />
 
-**Women's Health Innovation**
+**Biotech Innovation**
 
-Biotech startup for BV treatment
+Women's health platform for BV treatment
 
 `SvelteKit` • `GSAP` • `TailwindCSS`
 
-[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://femishield.org/)
+⏱️ **150+ hours**
 
-<br>
+<a href="https://femishield.org/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Learn_More-EC4899?style=for-the-badge" />
+</a>
+
+</div>
 </td>
-<td width="25%" align="center">
-<br>
+</tr>
 
-<img src="https://img.shields.io/badge/GoAfro-Travel-0073AA?style=for-the-badge&logo=wordpress&logoColor=white" />
+<tr>
+<td width="33%" align="center">
+<div style="padding: 15px;">
 
-**African Travel Platform**
+### ✈️ **GoAfro**
+<img src="https://img.shields.io/badge/Travel_&_Tourism-0073AA?style=for-the-badge&logo=wordpress&logoColor=white" />
 
-International marketplace for African experiences
+**African Travel Marketplace**
+
+International platform for African experiences
 
 `WordPress` • `PHP` • `MySQL`
 
-[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://goafro.no/)
+⏱️ **240+ hours**
 
-<br>
+<a href="https://goafro.no/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Explore-0073AA?style=for-the-badge" />
+</a>
+
+</div>
 </td>
-<td width="25%" align="center">
-<br>
+<td width="33%" align="center">
+<div style="padding: 15px;">
 
-<img src="https://img.shields.io/badge/Dark_Horse-Business-1E293B?style=for-the-badge&logo=rocket&logoColor=white" />
+### 🚀 **Dark Horse**
+<img src="https://img.shields.io/badge/Business_Solutions-1E293B?style=for-the-badge&logo=rocket&logoColor=white" />
 
-**Corporate Solutions**
+**Corporate Platform**
 
-Professional business platform & portfolio
+Professional business solutions & portfolio
 
 `SvelteKit` • `SQLite` • `TailwindCSS`
 
-[![View](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://darkhorseug.com/)
+⏱️ **200+ hours**
 
-<br>
+<a href="https://darkhorseug.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-1E293B?style=for-the-badge" />
+</a>
+
+</div>
 </td>
-</tr>
-</table>
+<td width="33%" align="center">
+<div style="padding: 15px;">
 
-<table>
-<tr>
-<td width="25%" align="center">
-<br>
+### 📱 **Bizness Book**
+<img src="https://img.shields.io/badge/Mobile_Business_App-6366F1?style=for-the-badge&logo=android&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Bizness_Book-Mobile_App-6366F1?style=for-the-badge&logo=android&logoColor=white" />
-
-**All-in-One Business Manager**
+**All-in-One Manager**
 
 Inventory, sales, accounting & analytics
 
 `Kotlin` • `Firebase` • `Jetpack Compose`
 
-[![Download](https://img.shields.io/badge/Download_App-6366F1?style=flat-square&logo=android&logoColor=white)](https://bizness-book.com/)
+⏱️ **850+ hours**
 
-<br>
+<a href="https://bizness-book.com/" target="_blank">
+  <img src="https://img.shields.io/badge/📱_Download-6366F1?style=for-the-badge" />
+</a>
+
+</div>
 </td>
-<td width="25%" align="center">
-<br>
+</tr>
 
-<img src="https://img.shields.io/badge/Simple_Bank-Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<tr>
+<td width="33%" align="center">
+<div style="padding: 15px;">
 
-**Secure Banking System**
+### 🏦 **Simple Bank**
+<img src="https://img.shields.io/badge/Backend_System-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+**Secure Banking API**
 
 JWT auth, transactions & RESTful APIs
 
 `Go` • `PostgreSQL` • `Docker` • `JWT`
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/codeninjaug/simple_bank_golang)
-[![Demo](https://img.shields.io/badge/View_Demo-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://simplebank.codeninjaug.com)
+⏱️ **380+ hours** • 🔄 _In Development_
 
-🔄 _In Development_
+<a href="https://github.com/codeninjaug/simple_bank_golang" target="_blank">
+  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://simplebank.codeninjaug.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Demo-00ADD8?style=for-the-badge" />
+</a>
 
-<br>
+</div>
 </td>
-<td width="25%" align="center">
-<br>
+<td width="33%" align="center">
+<div style="padding: 15px;">
 
-<img src="https://img.shields.io/badge/EFRIS-Tax_Tech-059669?style=for-the-badge&logo=ubuntu&logoColor=white" />
+### 🧾 **EFRIS Toolkit**
+<img src="https://img.shields.io/badge/Tax_Technology-059669?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
-**URA Integration Toolkit**
+**URA Integration**
 
 T128 product registration & CLI tools
 
 `Go` • `PHP` • `CLI Tools`
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/codeninjaug/epris-toolkit)
-[![Live](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://invoice.codeninjaug.com)
+⏱️ **290+ hours**
 
-<br>
+<a href="https://github.com/codeninjaug/epris-toolkit" target="_blank">
+  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://invoice.codeninjaug.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Demo-059669?style=for-the-badge" />
+</a>
+
+</div>
 </td>
-<td width="25%" align="center">
-<br>
+<td width="33%" align="center">
+<div style="padding: 15px;">
 
-<img src="https://img.shields.io/badge/AI_Automations-Custom_Bots-7C3AED?style=for-the-badge&logo=robot&logoColor=white" />
+### 🤖 **AI Automation**
+<img src="https://img.shields.io/badge/Custom_AI_Bots-7C3AED?style=for-the-badge&logo=robot&logoColor=white" />
 
 **Intelligent Solutions**
 
 End-to-end AI integrations & workflows
 
-`n8n` • `OpenAI` • `Claude` • `Python` • `Go`
+`n8n` • `OpenAI` • `Claude` • `Python`
 
-[![Get Started](https://img.shields.io/badge/Hire_Me-3B82F6?style=flat-square&logo=handshake&logoColor=white)](mailto:segayiandrew@gmail.com)
+⏱️ **500+ hours** • 💼 _Available for Hire_
 
-💼 _Available for Hire_
+<a href="mailto:segayiandrew@gmail.com?subject=AI%20Automation%20Inquiry" target="_blank">
+  <img src="https://img.shields.io/badge/💼_Hire_Me-3B82F6?style=for-the-badge" />
+</a>
 
-<br>
+</div>
 </td>
 </tr>
 </table>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer" width="100%"/>
+
+<br>
+
+![Projects](https://img.shields.io/badge/Production_Projects-12+-10B981?style=for-the-badge&logo=rocket&logoColor=white)
+![Experience](https://img.shields.io/badge/Coding_Hours-70K+-3B82F6?style=for-the-badge&logo=clock&logoColor=white)
+![Total Project Hours](https://img.shields.io/badge/Project_Hours-3,400+-F59E0B?style=for-the-badge&logo=clock&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Technologies-20+-EC4899?style=for-the-badge&logo=stackshare&logoColor=white)
+
+<br>
+
+### 💡 Ready to Build Your Next Project?
+
+<a href="mailto:segayiandrew@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/📧_Let's_Talk_Business-d4af37?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://wa.me/256704277679" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</div>
+---
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer" width="100%"/>
 
