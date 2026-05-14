@@ -86,15 +86,15 @@ Passionate **fullstack developer** and **AI integration specialist** with nearly
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2022 - To: 11 May 2026
+From: 25 October 2022 - To: 12 May 2026
 
-Total Time: 3,467 hrs 38 mins
+Total Time: 3,469 hrs 17 mins
 
-Go                            888 hrs 8 mins        >>>>>>-------------------   25.61 %
-Vue.js                        729 hrs 6 mins        >>>>>--------------------   21.03 %
+Go                            888 hrs 8 mins        >>>>>>-------------------   25.60 %
+Vue.js                        729 hrs 6 mins        >>>>>--------------------   21.02 %
 JavaScript                    405 hrs 49 mins       >>>----------------------   11.70 %
 PHP                           281 hrs 34 mins       >>-----------------------   08.12 %
-SQL                           279 hrs 6 mins        >>-----------------------   08.05 %
+Svelte                        279 hrs 15 mins       >>-----------------------   08.05 %
 ```
 
 <!--END_SECTION:waka-->
