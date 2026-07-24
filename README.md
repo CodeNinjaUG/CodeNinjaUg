@@ -262,8 +262,9 @@ Graphics design company
 <div style="padding: 12px;">
 
 ### 📱 **Bizness Book**
+<a href="https://bizness-book.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Mobile_App-6366F1?style=for-the-badge&logo=android&logoColor=white" />
-
+</a>
 All-in-one business manager
 
 `Kotlin` • `Firebase` • `Compose`
